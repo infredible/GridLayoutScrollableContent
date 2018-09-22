@@ -1,6 +1,5 @@
 {
-  "name": "portfolio-theme",
-  "description": "Fred's portfolio theme",
+  "name": "GridLayoutScrollableContent-ghost",
   "version": "0.0.1",
   "engines": {
     "ghost": ">=2.0.0"
