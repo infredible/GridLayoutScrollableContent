@@ -298,11 +298,11 @@ main {
 .content__item-title {
 	position: relative;
 	font-size: 7vw;
-	line-height: 1;
+	line-height: 1.4;
 	text-align: center;
 	margin: 0;
 	padding: 0 5vw;
-	white-space: nowrap;
+	white-space: wrap;
 	grid-area: 1 / 1 / 1 / 1;
 }
 
