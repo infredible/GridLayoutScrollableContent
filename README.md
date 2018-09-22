@@ -1,4 +1,8 @@
-# Grid Layout with Scrollable Content View
+# The Ghost.io Compatible version of "Grid Layout with Scrollable Content View"
+
+[View original repo](https://github.com/codrops/GridLayoutScrollableContent/)
+
+Original content starts here:
 
 A Masonry-powered grid layout with a motion hover effect on the grid items and a scrollable content view.
 
@@ -25,8 +29,3 @@ Follow Codrops: [Twitter](http://www.twitter.com/codrops), [Facebook](http://www
 
 
 [© Codrops 2018](http://www.codrops.com)
-
-
-
-
-
